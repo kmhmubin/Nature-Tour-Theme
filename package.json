@@ -1,0 +1,23 @@
+{
+  "name": "nature-tour-theme",
+  "version": "1.0.0",
+  "description": "Landing Page for Nature Tour Theme",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmhmubin/Nature-Tour-Theme.git"
+  },
+  "author": "Mubin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmhmubin/Nature-Tour-Theme/issues"
+  },
+  "homepage": "https://github.com/kmhmubin/Nature-Tour-Theme#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "dependencies": {}
+}
